@@ -1,0 +1,3 @@
+k$ git init
+$ git config --global user.name 'Ken Leung'
+$ git config --global user.email 'kentienshan@gmail.com'
